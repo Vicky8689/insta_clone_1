@@ -1,0 +1,18 @@
+.postheder{
+  display: flex;
+  justify-content: flex-start;
+  gap: 10px;
+  height: 50px;
+  width: 100%;
+  align-items: center;
+}
+.postcontanir{
+  width:35vw;
+  margin-top: 50px;
+
+}
+.postMain{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}

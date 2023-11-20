@@ -1,0 +1,100 @@
+let myinfo = {
+    profilepic:"https://wallpapers.com/images/hd/whatsapp-dp-cool-man-w7njnkdml4euk7oa.jpg",
+    username:"mr.innocent_boy",
+    post:45,
+    postimg:"https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1700352000&semt=ais",
+    followers:234,
+    following:543,
+    name:"Vicky Yadav",
+    Bio:"I am a Enginer",
+    savedStatus:[
+      {
+        statusName:"Today",
+        status:[
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeqB6xTXqV1EKOY4jCuoojKmnq8LTSe7fphzGE0KYUXaGrYw0ToJ2uE6FAZP9vxe-g_dM&usqp=CAU",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeqB6xTXqV1EKOY4jCuoojKmnq8LTSe7fphzGE0KYUXaGrYw0ToJ2uE6FAZP9vxe-g_dM&usqp=CAU",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeqB6xTXqV1EKOY4jCuoojKmnq8LTSe7fphzGE0KYUXaGrYw0ToJ2uE6FAZP9vxe-g_dM&usqp=CAU",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeqB6xTXqV1EKOY4jCuoojKmnq8LTSe7fphzGE0KYUXaGrYw0ToJ2uE6FAZP9vxe-g_dM&usqp=CAU"
+        ]
+      },
+      {
+        statusName:"Birthday",
+        status:[
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeqB6xTXqV1EKOY4jCuoojKmnq8LTSe7fphzGE0KYUXaGrYw0ToJ2uE6FAZP9vxe-g_dM&usqp=CAU",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeqB6xTXqV1EKOY4jCuoojKmnq8LTSe7fphzGE0KYUXaGrYw0ToJ2uE6FAZP9vxe-g_dM&usqp=CAU",
+          "https://images.unsplash.com/photo-1495344517868-8ebaf0a2044a?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D",
+          "https://images.unsplash.com/photo-1495344517868-8ebaf0a2044a?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeqB6xTXqV1EKOY4jCuoojKmnq8LTSe7fphzGE0KYUXaGrYw0ToJ2uE6FAZP9vxe-g_dM&usqp=CAU",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeqB6xTXqV1EKOY4jCuoojKmnq8LTSe7fphzGE0KYUXaGrYw0ToJ2uE6FAZP9vxe-g_dM&usqp=CAU"
+        ]
+      },
+      {
+        statusName:"Traval",
+        status:[
+          "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1700352000&semt=ais",
+          "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1700352000&semt=ais",
+          "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1700352000&semt=ais",
+          "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1700352000&semt=ais",
+          "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1700352000&semt=ais",
+          "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1700352000&semt=ais",
+          "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1700352000&semt=ais",
+          "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1700352000&semt=ais"
+        ]
+      }
+    ],
+    posts:[
+      {
+        postImagess:[
+          "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1700352000&semt=ais",
+          "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1700352000&semt=ais",
+          "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1700352000&semt=ais",
+          "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1700352000&semt=ais",
+        ]
+      },
+      {
+        postImagess:[
+          "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1700352000&semt=ais",
+          "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1700352000&semt=ais",
+          "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1700352000&semt=ais",
+          "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1700352000&semt=ais",
+        ]
+      },
+      {
+        postImagess:[
+          "https://media.istockphoto.com/id/636379014/photo/hands-forming-a-heart-shape-with-sunset-silhouette.jpg?s=612x612&w=0&k=20&c=CgjWWGEasjgwia2VT7ufXa10azba2HXmUDe96wZG8F0=",
+          "https://media.istockphoto.com/id/636379014/photo/hands-forming-a-heart-shape-with-sunset-silhouette.jpg?s=612x612&w=0&k=20&c=CgjWWGEasjgwia2VT7ufXa10azba2HXmUDe96wZG8F0=",
+          "https://media.istockphoto.com/id/636379014/photo/hands-forming-a-heart-shape-with-sunset-silhouette.jpg?s=612x612&w=0&k=20&c=CgjWWGEasjgwia2VT7ufXa10azba2HXmUDe96wZG8F0=",
+          "https://media.istockphoto.com/id/636379014/photo/hands-forming-a-heart-shape-with-sunset-silhouette.jpg?s=612x612&w=0&k=20&c=CgjWWGEasjgwia2VT7ufXa10azba2HXmUDe96wZG8F0=",
+        ]
+      },
+      {
+        postImagess:[
+          "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1700352000&semt=ais",
+          "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg",
+          "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg",
+          "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg",
+        ]
+      },
+      {
+        postImagess:[
+          "https://cdn.pixabay.com/photo/2018/01/12/10/19/fantasy-3077928_640.jpg",
+          "https://cdn.pixabay.com/photo/2018/01/12/10/19/fantasy-3077928_640.jpg",
+          "https://cdn.pixabay.com/photo/2018/01/12/10/19/fantasy-3077928_640.jpg",
+          "https://cdn.pixabay.com/photo/2018/01/12/10/19/fantasy-3077928_640.jpg",
+        ]
+      },
+      {
+        postImagess:[
+          "https://cdn.pixabay.com/photo/2018/01/12/10/19/fantasy-3077928_640.jpg",
+          "https://cdn.pixabay.com/photo/2018/01/12/10/19/fantasy-3077928_640.jpg",
+          "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1700352000&semt=ais",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeqB6xTXqV1EKOY4jCuoojKmnq8LTSe7fphzGE0KYUXaGrYw0ToJ2uE6FAZP9vxe-g_dM&usqp=CAU",
+        ]
+      },
+    ]
+
+
+
+}
+
+export default myinfo

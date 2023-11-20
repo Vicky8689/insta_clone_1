@@ -1,0 +1,18 @@
+.ststusContainer{
+
+  height: 100px;
+  margin-top: 20px;
+  margin-left: 20ox;
+  display: flex;
+  width: 70vh;
+  gap: 30px;
+  justify-content: start;
+  padding-left: 20px;
+  align-items: center ;
+  overflow: hidden;
+  overflow-x: auto;
+  
+
+
+
+}
